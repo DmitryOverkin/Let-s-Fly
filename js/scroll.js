@@ -184,7 +184,7 @@ document.addEventListener('DOMContentLoaded', event => {
 			scale: 1,
 			opacity: 1,
 			x: -10,
-			ease: 'power2.out',
+			ease: 'power2.outwe',
 			scrollTrigger: {
 				trigger: '.loyalty .loyalty__bottom',
 				start: 'top bottom', // блок только зашёл в экран
